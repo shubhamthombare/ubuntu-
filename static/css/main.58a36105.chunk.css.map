@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Biorhythm.css"],"names":[],"mappings":"AAAA,WACI,UACJ,CAEA,UACI,WACJ,CAEA,cACI,SACJ,CAEA,EACI,kBACJ","file":"main.58a36105.chunk.css","sourcesContent":[".emotional{\n    color: blue;\n}\n\n.physical{\n    color: green;\n}\n\n.intellectual{\n    color: red;\n}\n\np{\n    line-height: normal;\n}"]}
